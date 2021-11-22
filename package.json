@@ -1,0 +1,18 @@
+{
+  "name": "demo_friday_site",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass sass/style.scss sass/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirylKarzhavin/Demo_Friday_Site.git"
+  },
+  "dependencies": {
+    "node-sass": "^6.0.1",
+    "sass": "^1.43.4"
+  },
+  "devDependencies": {}
+}
