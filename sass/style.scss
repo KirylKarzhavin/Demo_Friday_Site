@@ -1,8 +1,13 @@
-html {
-  font-size: 10px;
-  body {
-    font-size: 1.6rem;
-    font-family: 'Open Sans', Verdana, sans-serif;
-    background-color: brown;
-  }
-}
+@import 'abstract/constants';
+
+// Base
+@import 'base/base.scss';
+@import 'base/buttons';
+
+// Layouts
+@import 'layouts/_wrapper';
+@import 'layouts/header.scss';
+
+// Components
+@import 'components/contact-us';
+@import 'components/promo';
