@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "node-sass": "^6.0.1",
+    "normalize-scss": "^7.0.1",
     "sass": "^1.43.4"
   },
   "devDependencies": {}
