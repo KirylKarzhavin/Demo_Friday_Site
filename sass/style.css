@@ -605,11 +605,11 @@ h5 {
   color: #ff9900;
 }
 
-.tools {
+.tools__wrapper {
   padding-bottom: 90px;
   background-image: url("../img/strategies/bg-tools.svg");
-  background-position: center;
-  background-size: 101%;
+  background-position: center bottom;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 
