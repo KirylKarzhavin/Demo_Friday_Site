@@ -39,3 +39,9 @@
 .link-button__text {
   margin-left: 9px;
 }
+
+.contact-us__button {
+  > * {
+    min-width: 117px;
+  }
+}
